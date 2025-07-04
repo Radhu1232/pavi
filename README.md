@@ -1,0 +1,2 @@
+# pavi
+Learning AI
